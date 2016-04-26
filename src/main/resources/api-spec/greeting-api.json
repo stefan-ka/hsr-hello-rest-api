@@ -2,6 +2,9 @@
     "swagger": "2.0",
     "host": "localhost:8080",
     "basePath": "/",
+    "schemes": [
+        "http"
+    ],
     "info": {
         "version": "1.0.0",
         "title": "HSR 'Hello World' RESTFul API"
